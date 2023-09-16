@@ -4,7 +4,7 @@ const hostname = '127.0.0.1';
 const port = 3000;
  //hahahahahahahah
 // console.log("Starting the server")
-//create a server object:
+//create a server object:xc
 http.createServer(function (req, res) {
   res.write('Yeh jo hass rahi hai duniya!'); //write a response to the client
   res.end(); //end the response
